@@ -1,0 +1,15 @@
+{
+  "name": "xmlexamples",
+  "version": "1.0.0",
+  "description": "BGG Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies" : {
+    "request" : "2.x.x",
+    "xml2js" : "0.x.x"
+  },
+  "author": "p.amos",
+  "license": "ISC"
+}
